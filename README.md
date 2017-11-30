@@ -19,7 +19,7 @@ https://www.cms.gov/CCIIO/Resources/Data-Resources/Downloads/Plan-Attributes-Dat
 
 ## Analysis:
 1. Actuarial Value between MA and NY.
-2. In network and Out of network for HMO and PPO plans , Individual Vs Family for Tier1 and Tier2 Member Out of Pocket comparison.
+2. In network and Out of network for HMO and PPO plans , Individual Vs Family for Tier1 Total essential Health Benefits Member Out of Pocket comparison.
 
 ## Conclusion:
 Based on our analysis ...
