@@ -13,7 +13,9 @@ https://www.cms.gov/CCIIO/Resources/Data-Resources/sbm-puf.html . The data file 
 The file size is approx 4MB
 
 ## Data Dictionary:
-<-- https://www.cms.gov/CCIIO/Resources/Data-Resources/Downloads/Plan-Attributes-Data-Dictionary.pdf >
+Data dictionary is provided in the link below. 
+
+https://www.cms.gov/CCIIO/Resources/Data-Resources/Downloads/Plan-Attributes-Data-Dictionary.pdf 
 
 ## Analysis:
 1. Actuarial Value between MA and NY.
