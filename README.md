@@ -22,6 +22,8 @@ https://www.cms.gov/CCIIO/Resources/Data-Resources/Downloads/Plan-Attributes-Dat
 2. In network and Out of network for HMO and PPO plans , Individual Vs Family for Tier1 Total essential Health Benefits Member Out of Pocket comparison.
 
 ## Conclusion:
-Based on our analysis ...
+Based on our analysis we see that in 2016 there were 4 plans which has a actuarian value less than 70% for the state of MA and 17 for the state of NY
+Similarly from our second analysis we see that there is no PPO option with silver and there is no HMO with low metal option.
+The min member out of pocket of the HMO catatrophi plan in MA is a bit lower compared to the state of NY.
 
 
